@@ -4,7 +4,8 @@ I am a Computer Science graduate with a strong interest in software development 
 
 ## 🛠 Technical Skills
 **Languages:**  
-- Python  
+- Python
+- Java
 - JavaScript 
 - HTML, CSS  
 
