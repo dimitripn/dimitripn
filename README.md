@@ -19,10 +19,5 @@ This GitHub profile contains:
 
 Each repository includes documentation explaining its purpose and implementation.
 
-## 🎯 Career Goals
-- Build reliable and secure software systems  
-- Strengthen problem-solving and system design skills  
-- Grow as a software developer with security awareness  
-
 ---
 Thank you for visiting my profile. Feel free to explore my repositories.
